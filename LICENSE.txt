@@ -1,0 +1,18 @@
+Copyright (c) 2025 Eshak Ahmed
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this product (the "Template") to use, modify, and incorporate it into their
+own projects, including commercial websites, subject to the following conditions:
+
+1. The Template may not be resold, redistributed, or re-uploaded in its original
+   or modified form as a competing product or template on any marketplace
+   without explicit written permission from the copyright holder.
+
+2. The Template may be used for unlimited personal and commercial projects
+   by the license holder or their clients.
+
+3. Attribution is not required, but appreciated.
+
+THE TEMPLATE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY.
